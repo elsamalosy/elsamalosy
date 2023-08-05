@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elsamalosy
+- 👋 Hi, I’m Mahmoud elsamalosy
 - 👀 I’m interested in pushing the boundaries of artificial intelligence and exploring innovative applications.
 - 🌱 I’m currently learning advanced skills in deep learning to enhance my ability to create more sophisticated and powerful AI models.
 - 💞️ I’m looking to collaborate on projects that involve cutting-edge AI technologies, such as developing intelligent systems, natural language understanding, or computer vision applications.
